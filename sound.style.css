@@ -1,0 +1,48 @@
+body
+{
+    background-color: aqua;
+    font-family: 'Play', sans-serif;
+}
+.header_div
+{
+    background: white;
+    color: #c9dd9d;
+}
+
+.header_div p
+{
+    font-family: 'Comic Sans MS';
+    color: #333333;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Gill Sans';
+    margin-top: 36px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: #00ffff;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: #4d942f;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+
+.copy_right_footer img
+{
+   width: 50px;
+   height: 50px;     
+}
